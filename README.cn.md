@@ -1,6 +1,6 @@
-# 自動購票
-[![English](https://img.shields.io/badge/Read-English-blue)](README.md)
-[![繁體中文](https://img.shields.io/badge/讀-繁體中文-red)](README.cn.md)
+# 搶票機器人
+[![English](https://img.shields.io/badge/Read-English-blue)](https://github.com/mikehsin/Ticket-Crawler/blame/main/README.md)
+[![繁體中文](https://img.shields.io/badge/讀-繁體中文-red)](https://github.com/mikehsin/Ticket-Crawler/blame/main/README.cn.md)
 
 這個使用Python和Selenium開發的網頁爬蟲應用程式旨在自動化購買網上票券或商品的過程。
 

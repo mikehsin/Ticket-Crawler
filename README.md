@@ -1,7 +1,6 @@
-# Auto Ticket/Product Purchase Application
-[![English](https://img.shields.io/badge/Read-English-blue)](README.md)
-[![繁體中文](https://img.shields.io/badge/讀-繁體中文-red)](README.cn.md)
-
+# Ticket Crawler
+[![English](https://img.shields.io/badge/Read-English-blue)](https://github.com/mikehsin/Ticket-Crawler/blame/main/README.md)
+[![繁體中文](https://img.shields.io/badge/讀-繁體中文-red)](https://github.com/mikehsin/Ticket-Crawler/blame/main/README.cn.md)
 
 
 This ticket crawling application, developed using Python and Selenium, is designed to automate the process of buying tickets or products online.
